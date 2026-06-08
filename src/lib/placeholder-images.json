@@ -1,0 +1,40 @@
+{
+  "placeholderImages": [
+    {
+      "id": "menswear",
+      "description": "3D Bar Necklace",
+      "imageUrl": "https://i.postimg.cc/GmWMMCF5/Gemini-Generated-Image-nigsdwnigsdwnigs.png",
+      "imageHint": "bar necklace"
+    },
+    {
+      "id": "pu-leather-tote",
+      "description": "PU Leather Tote Bag",
+      "imageUrl": "https://i.postimg.cc/dV1bd456/image-6efe0a81.png",
+      "imageHint": "red handbag"
+    },
+    {
+      "id": "accessories",
+      "description": "Ultra-Thin Mens Watch",
+      "imageUrl": "https://i.postimg.cc/26qjS43Z/71IJ03mbfc-L-AC-SY535.jpg",
+      "imageHint": "mens watch"
+    },
+    {
+      "id": "glasses",
+      "description": "Vintage Semi-Rimless Glasses",
+      "imageUrl": "https://i.postimg.cc/j2Pf3WVP/image-45e39c32.png",
+      "imageHint": "rimless glasses"
+    },
+    {
+      "id": "tennis-bracelet",
+      "description": "Elegant Tennis Bracelet",
+      "imageUrl": "https://i.postimg.cc/KzBPWh89/prdouct-2.jpg",
+      "imageHint": "gold bracelet"
+    },
+    {
+      "id": "crossbody-bag",
+      "description": "Modern Crossbody Bag",
+      "imageUrl": "https://i.postimg.cc/HsKd3rVs/Gemini-Generated-Image-qse9zoqse9zoqse9.png",
+      "imageHint": "crossbody bag"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 228 33% 98%;
+    --foreground: 223 72% 10%;
+    --card: 0 0% 100%;
+    --card-foreground: 223 72% 10%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 223 72% 10%;
+    --primary: 223 72% 50%;
+    --primary-foreground: 0 0% 100%;
+    --secondary: 191 79% 95%;
+    --secondary-foreground: 223 72% 50%;
+    --muted: 228 20% 92%;
+    --muted-foreground: 223 20% 40%;
+    --accent: 191 79% 45%;
+    --accent-foreground: 0 0% 100%;
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 0 0% 98%;
+    --border: 228 20% 88%;
+    --input: 228 20% 88%;
+    --ring: 223 72% 50%;
+    --radius: 0.75rem;
+    --chart-1: 223 72% 50%;
+    --chart-2: 191 79% 45%;
+    --chart-3: 197 37% 24%;
+    --chart-4: 43 74% 66%;
+    --chart-5: 27 87% 67%;
+  }
+
+  .dark {
+    --background: 223 72% 5%;
+    --foreground: 0 0% 98%;
+    --card: 223 72% 8%;
+    --card-foreground: 0 0% 98%;
+    --popover: 223 72% 8%;
+    --popover-foreground: 0 0% 98%;
+    --primary: 223 72% 55%;
+    --primary-foreground: 0 0% 100%;
+    --secondary: 223 72% 12%;
+    --secondary-foreground: 0 0% 98%;
+    --muted: 223 72% 12%;
+    --muted-foreground: 223 10% 70%;
+    --accent: 191 79% 50%;
+    --accent-foreground: 0 0% 100%;
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 0 0% 98%;
+    --border: 223 72% 15%;
+    --input: 223 72% 15%;
+    --ring: 223 72% 55%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+}
+
+.bento-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 2rem;
+}
+
+@keyframes fade-in-up {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade-in-up {
+  animation: fade-in-up 0.6s ease-out forwards;
+}
