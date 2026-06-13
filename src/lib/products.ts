@@ -104,5 +104,20 @@ export const PRODUCTS: Product[] = [
       "Strap": "Adjustable & Detachable",
       "Closure Type": "Turn Lock"
     }
+  },
+  {
+    id: 'f7',
+    name: 'Layered Gold Necklaces',
+    category: 'Women',
+    description: 'Meet your new layering essentials. Featuring a structured Cuban choker, a subtle dot chain, and a sleek, crystal-accented pendant, this three-piece set does all the styling work for you. Pile them on together for an instant statement look, or mix and match them solo to match your daily mood.',
+    price: 11.99,
+    affiliateUrl: 'https://amzn.to/4v6UvBP',
+    imageUrl: 'https://i.postimg.cc/JnbbD8km/Gemini-Generated-Image-igrzaiigrzaiigrz.png',
+    imageHint: 'Layered Gold Necklaces',
+    specs: {
+      "Metal Type": "Brass",
+      "Material": "14K Gold Plated",
+      "Clasp type": "Lobster"
+    }
   }
 ];
