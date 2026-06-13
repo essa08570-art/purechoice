@@ -119,5 +119,20 @@ export const PRODUCTS: Product[] = [
       "Material": "14K Gold Plated",
       "Clasp type": "Lobster"
     }
+  },
+  {
+    id: 'f8',
+    name: 'Gold Earrings for Women',
+    category: 'Women',
+    description: 'Define your personal style with our collection of gold-plated huggie earrings. From dainty 14k gold studs to sleek cartilage hoops, this versatile set lets you curate endless combinations and make a statement that is uniquely yours.',
+    price: 9.99,
+    affiliateUrl: 'https://amzn.to/4vcfEuG',
+    imageUrl: 'https://i.postimg.cc/rwK7m339/Gemini-Generated-Image-318wyz318wyz318w.png',
+    imageHint: 'Gold Earrings',
+    specs: {
+      "Metal Type": "Brass",
+      "Material": "14K Gold Plated",
+      "Back Finding": "Hinged Hoop"
+    }
   }
 ];
