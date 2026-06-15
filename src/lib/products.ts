@@ -134,5 +134,20 @@ export const PRODUCTS: Product[] = [
       "Material": "14K Gold Plated",
       "Back Finding": "Hinged Hoop"
     }
+  },
+  {
+    id: 'f9',
+    name: 'Swing Zip Shoulder Bag',
+    category: 'Women',
+    description: 'Designed for the modern woman, this durable vegan leather shoulder bag ensures long-lasting use. The secure magnetic closure and reinforced stitching make it a reliable and chic companion for all your daily adventures.',
+    price: 24.98,
+    affiliateUrl: 'https://amzn.to/43DjqB7',
+    imageUrl: 'https://i.postimg.cc/sxTF6Hbm/Gemini-Generated-Image-7dj3zl7dj3zl7dj3.jpg',
+    imageHint: 'Gold Earrings',
+    specs: {
+      "Brand": "LOVEVOOK",
+      "Closure type": "Zipper",
+      "Lining": "Polyester"
+    }
   }
 ];
