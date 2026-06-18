@@ -149,5 +149,20 @@ export const PRODUCTS: Product[] = [
       "Closure type": "Zipper",
       "Lining": "Polyester"
     }
+  },
+  {
+    id: 'f10',
+    name: 'Mens Sunglasses Rimless',
+    category: 'Men',
+    description: 'Rimless sunglasses make men more attractive and eye-catching in outdoor activities enthusiasts or in the party.',
+    price: 14.99,
+    affiliateUrl: 'https://amzn.to/3Qx6dH5',
+    imageUrl: 'https://i.postimg.cc/prFT8N6t/Gemini-Generated-Image-iomuu2iomuu2iomu.png',
+    imageHint: 'glasses',
+    specs: {
+      "Lens Type": "Gradient",
+      "UV Protection": "True",
+      "Frame": "Rimless"
+    }
   }
 ];
