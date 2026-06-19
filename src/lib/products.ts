@@ -164,5 +164,20 @@ export const PRODUCTS: Product[] = [
       "UV Protection": "True",
       "Frame": "Rimless"
     }
+  },
+  {
+    id: 'f11',
+    name: 'Nine West Womens Bracelet Watch',
+    category: 'Women',
+    description: 'Features a pink dial with crystal-accented markers and a rose gold-tone bracelet — looks far more expensive than its price point.',
+    price: 20.51,
+    affiliateUrl: 'https://amzn.to/4oFt5kr',
+    imageUrl: 'https://i.postimg.cc/8P3CnKMb/Gemini-Generated-Image-6n1uog6n1uog6n1u.png',
+    imageHint: 'watch',
+    specs: {
+      "Display": "Analog",
+      "Closure Type": "Push Button Foldover Clasp ",
+      "Strap Type": "Bracelet"
+    }
   }
 ];
