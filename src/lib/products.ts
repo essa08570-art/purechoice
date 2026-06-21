@@ -87,8 +87,8 @@ export const PRODUCTS: Product[] = [
     imageHint: 'rimless glasses',
     images: [
       { url: 'https://i.postimg.cc/j2Pf3WVP/image-45e39c32.png', hint: 'glasses front view' },
-      { url: 'https://picsum.photos/seed/glasses2/800/800', hint: 'glasses side detail' },
-      { url: 'https://picsum.photos/seed/glasses3/800/800', hint: 'glasses in case' }
+      { url: 'https://m.media-amazon.com/images/I/61xUPpknIQL._AC_SY695_.jpg', hint: 'glasses side detail' },
+      { url: 'https://m.media-amazon.com/images/I/51Q0DC+x2GL._AC_SY695_.jpg', hint: 'glasses in case' }
     ],
     specs: {
       "Frame": "Semi-Rimless Metal",
