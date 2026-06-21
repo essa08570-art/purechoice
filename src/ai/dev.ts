@@ -1,4 +1,4 @@
 import { config } from 'dotenv';
 config();
 
-import '@/ai/flows/generate-product-pros-cons.ts';
+// Flows are registered here for the Genkit Dev UI

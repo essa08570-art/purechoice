@@ -1,4 +1,3 @@
-
 "use client";
 
 import { use } from 'react';
@@ -13,6 +12,13 @@ import {
   ExternalLink
 } from 'lucide-react';
 import { Separator } from '@/components/ui/separator';
+import {
+  Carousel,
+  CarouselContent,
+  CarouselItem,
+  CarouselNext,
+  CarouselPrevious,
+} from "@/components/ui/carousel";
 
 export default function ProductPage({ params }: { params: Promise<{ productId: string }> }) {
   const { productId } = use(params);
@@ -44,17 +50,40 @@ export default function ProductPage({ params }: { params: Promise<{ productId: s
 
       <main className="container mx-auto px-4 pt-24 pb-16">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-start">
-          {/* Left Column: Image */}
+          {/* Left Column: Image Carousel */}
           <div className="space-y-6">
-            <div className="relative aspect-square rounded-2xl overflow-hidden border bg-white shadow-sm">
-              <Image
-                src={product.imageUrl}
-                alt={product.name}
-                fill
-                priority
-                className="object-cover"
-                data-ai-hint={product.imageHint}
-              />
+            <Carousel className="w-full">
+              <CarouselContent>
+                {product.images.map((image, index) => (
+                  <CarouselItem key={index}>
+                    <div className="relative aspect-square rounded-2xl overflow-hidden border bg-white shadow-sm">
+                      <Image
+                        src={image.url}
+                        alt={image.hint}
+                        fill
+                        priority={index === 0}
+                        className="object-cover"
+                        data-ai-hint={image.hint}
+                      />
+                    </div>
+                  </CarouselItem>
+                ))}
+              </CarouselContent>
+              <CarouselPrevious className="left-4" />
+              <CarouselNext className="right-4" />
+            </Carousel>
+            
+            <div className="flex gap-2 overflow-x-auto pb-2">
+              {product.images.map((image, index) => (
+                <div key={index} className="relative h-20 w-20 flex-shrink-0 rounded-lg overflow-hidden border">
+                   <Image
+                      src={image.url}
+                      alt={image.hint}
+                      fill
+                      className="object-cover"
+                    />
+                </div>
+              ))}
             </div>
           </div>
 
@@ -76,9 +105,9 @@ export default function ProductPage({ params }: { params: Promise<{ productId: s
 
             <Separator className="mb-8" />
 
-            <div className="space-y-6 mb-12">
+            <div className="space-y-6 mb-8">
               <div>
-                <h3 className="font-bold mb-2">Description</h3>
+                <h3 className="font-bold mb-2 text-lg">Description</h3>
                 <p className="text-muted-foreground leading-relaxed">
                   {product.description}
                 </p>
@@ -94,9 +123,9 @@ export default function ProductPage({ params }: { params: Promise<{ productId: s
               </div>
             </div>
 
-            <div className="flex flex-col sm:flex-row gap-4 mb-12">
+            <div className="flex flex-col sm:flex-row gap-4 mb-12 mt-8">
               <Button asChild size="lg" className="flex-1 h-14 rounded-full text-lg font-bold shadow-lg shadow-primary/20">
-                <Link href={`/go/${product.id}`} target="_blank">
+                <Link href={product.affiliateUrl} target="_blank">
                   Buy now
                   <ExternalLink className="ml-2 h-5 w-5" />
                 </Link>
