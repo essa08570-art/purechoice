@@ -26,8 +26,8 @@ export const PRODUCTS: Product[] = [
     imageHint: 'bar necklace',
     images: [
       { url: 'https://i.postimg.cc/GmWMMCF5/Gemini-Generated-Image-nigsdwnigsdwnigs.png', hint: 'bar necklace front view' },
-      { url: 'https://picsum.photos/seed/necklace2/800/800', hint: 'necklace detail' },
-      { url: 'https://picsum.photos/seed/necklace3/800/800', hint: 'necklace on model' }
+      { url: 'https://i.postimg.cc/8zHsqgv6/510z-QEb-Vdo-L-AC-SY675.jpg', hint: 'necklace detail' },
+      { url: 'https://i.postimg.cc/L8ThrFPZ/51m-TBXkh-SKL-AC-SY535.jpg', hint: 'necklace on model' }
     ],
     isNew: true,
     specs: {
@@ -47,8 +47,8 @@ export const PRODUCTS: Product[] = [
     imageHint: 'red handbag',
     images: [
       { url: 'https://i.postimg.cc/dV1bd456/image-6efe0a81.png', hint: 'red handbag front' },
-      { url: 'https://picsum.photos/seed/tote2/800/800', hint: 'tote interior' },
-      { url: 'https://picsum.photos/seed/tote3/800/800', hint: 'tote side view' }
+      { url: 'https://i.postimg.cc/mrkZJzBZ/61bdo-Uvp-KJL-AC-SY695.jpg', hint: 'tote interior' },
+      { url: 'https://i.postimg.cc/s2xfqQsD/61F1M9k-Vj-UL-AC-SY695.jpg', hint: 'tote side view' }
     ],
     isNew: true,
     specs: {
