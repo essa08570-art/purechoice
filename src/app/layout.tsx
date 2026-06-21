@@ -3,7 +3,7 @@ import type {Metadata} from 'next';
 import './globals.css';
 
 export const metadata: Metadata = {
-  title: 'Dynamic Fashions | Curated Style Essentials',
+  title: 'Dynamic Fashions',
   description: 'Dynamic Fashions uses expert curation and style analysis to help you find the best fashion essentials for a modern lifestyle.',
   keywords: 'fashion reviews, menswear, womenswear, style guide, capsule wardrobe, accessories',
 };
