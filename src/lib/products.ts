@@ -82,13 +82,13 @@ export const PRODUCTS: Product[] = [
     category: 'Men',
     description: 'Classic semi-rimless design with high-quality lenses, perfect for a vintage-inspired look and daily wear.',
     price: 8.99,
-    affiliateUrl: 'https://amzn.to/3CHYm7D',
+    affiliateUrl: 'https://amzn.to/4vnH4h4',
     imageUrl: 'https://i.postimg.cc/j2Pf3WVP/image-45e39c32.png',
     imageHint: 'rimless glasses',
     images: [
       { url: 'https://i.postimg.cc/j2Pf3WVP/image-45e39c32.png', hint: 'glasses front view' },
-      { url: 'https://m.media-amazon.com/images/I/61xUPpknIQL._AC_SY695_.jpg', hint: 'glasses side detail' },
-      { url: 'https://m.media-amazon.com/images/I/51Q0DC+x2GL._AC_SY695_.jpg', hint: 'glasses in case' }
+      { url: 'https://i.postimg.cc/CMPBKgrk/61x-UPpkn-IQL-AC-SY695.jpg', hint: 'glasses side detail' },
+      { url: 'https://i.postimg.cc/0ymbZJ51/51Q0DC-x2GL-AC-SY695.jpg', hint: 'glasses in case' }
     ],
     specs: {
       "Frame": "Semi-Rimless Metal",
