@@ -67,8 +67,8 @@ export const PRODUCTS: Product[] = [
     imageHint: 'mens watch',
     images: [
       { url: 'https://i.postimg.cc/26qjS43Z/71IJ03mbfc-L-AC-SY535.jpg', hint: 'mens watch face' },
-      { url: 'https://picsum.photos/seed/watch2/800/800', hint: 'watch profile' },
-      { url: 'https://picsum.photos/seed/watch3/800/800', hint: 'watch on wrist' }
+      { url: 'https://i.postimg.cc/dtJYgkj2/61AP8gm-Tr-BL-AC-SY535.jpg', hint: 'watch profile' },
+      { url: 'https://i.postimg.cc/RVvB26Lc/71x-Kc-SG3zv-L-AC-SY535.jpg', hint: 'watch on wrist' }
     ],
     specs: {
       "Material": "Stainless steel",
@@ -107,8 +107,8 @@ export const PRODUCTS: Product[] = [
     imageHint: 'gold bracelet',
     images: [
       { url: 'https://i.postimg.cc/KzBPWh89/prdouct-2.jpg', hint: 'gold bracelet view' },
-      { url: 'https://picsum.photos/seed/bracelet2/800/800', hint: 'bracelet closure' },
-      { url: 'https://picsum.photos/seed/bracelet3/800/800', hint: 'bracelet sparkle' }
+      { url: 'https://i.postimg.cc/Jnjf2MDR/51b4-dcx-DFL-AC-SY675.jpg', hint: 'bracelet closure' },
+      { url: 'https://i.postimg.cc/Qtc2yh9h/615Xdc-Rn-Rj-L-AC-SY535.jpg', hint: 'bracelet sparkle' }
     ],
     specs: {
       "Material": "Brass, Crystal",
@@ -127,8 +127,8 @@ export const PRODUCTS: Product[] = [
     imageHint: 'crossbody bag',
     images: [
       { url: 'https://i.postimg.cc/HsKd3rVs/Gemini-Generated-Image-qse9zoqse9zoqse9.png', hint: 'crossbody bag front' },
-      { url: 'https://picsum.photos/seed/bag2/800/800', hint: 'bag interior pockets' },
-      { url: 'https://picsum.photos/seed/bag3/800/800', hint: 'bag on model' }
+      { url: 'https://i.postimg.cc/L6QbvnC8/61U0z-Ass-Jg-L-AC-SY695.jpg', hint: 'bag interior pockets' },
+      { url: 'https://i.postimg.cc/qMD5Qzb7/71el5Lhmyi-L-AC-SY695.jpg', hint: 'bag on model' }
     ],
     specs: {
       "Material": "Faux leather",
@@ -146,9 +146,9 @@ export const PRODUCTS: Product[] = [
     imageUrl: 'https://i.postimg.cc/JnbbD8km/Gemini-Generated-Image-igrzaiigrzaiigrz.png',
     imageHint: 'Layered Gold Necklaces',
     images: [
-      { url: 'https://i.postimg.cc/HsKd3rVs/Gemini-Generated-Image-qse9zoqse9zoqse9.png', hint: 'crossbody bag front' },
-      { url: 'https://picsum.photos/seed/bag2/800/800', hint: 'bag interior pockets' },
-      { url: 'https://picsum.photos/seed/bag3/800/800', hint: 'bag on model' }
+      { url: 'https://i.postimg.cc/JnbbD8km/Gemini-Generated-Image-igrzaiigrzaiigrz.png', hint: 'crossbody bag front' },
+      { url: 'https://i.postimg.cc/xj4v4M27/615s-XIJb-Xs-L-AC-SY535.jpg', hint: 'bag interior pockets' },
+      { url: 'https://i.postimg.cc/WpHGHgvC/81tn0sixxt-L-AC-SY535.jpg', hint: 'bag on model' }
     ],
     specs: {
       "Metal Type": "Brass",
@@ -166,9 +166,9 @@ export const PRODUCTS: Product[] = [
     imageUrl: 'https://i.postimg.cc/rwK7m339/Gemini-Generated-Image-318wyz318wyz318w.png',
     imageHint: 'Gold Earrings',
     images: [
-      { url: 'https://i.postimg.cc/HsKd3rVs/Gemini-Generated-Image-qse9zoqse9zoqse9.png', hint: 'crossbody bag front' },
-      { url: 'https://picsum.photos/seed/bag2/800/800', hint: 'bag interior pockets' },
-      { url: 'https://picsum.photos/seed/bag3/800/800', hint: 'bag on model' }
+      { url: 'https://i.postimg.cc/rwK7m339/Gemini-Generated-Image-318wyz318wyz318w.png', hint: 'crossbody bag front' },
+      { url: 'https://i.postimg.cc/D0JXTphJ/61HQ6n57e-OL-AC-SY535.jpg', hint: 'bag interior pockets' },
+      { url: 'https://i.postimg.cc/D09byQf7/81Uw0BDadb-L-AC-SY535.jpg', hint: 'bag on model' }
     ],
     specs: {
       "Metal Type": "Brass",
@@ -186,9 +186,9 @@ export const PRODUCTS: Product[] = [
     imageUrl: 'https://i.postimg.cc/sxTF6Hbm/Gemini-Generated-Image-7dj3zl7dj3zl7dj3.jpg',
     imageHint: 'Gold Earrings',
     images: [
-      { url: 'https://i.postimg.cc/HsKd3rVs/Gemini-Generated-Image-qse9zoqse9zoqse9.png', hint: 'crossbody bag front' },
-      { url: 'https://picsum.photos/seed/bag2/800/800', hint: 'bag interior pockets' },
-      { url: 'https://picsum.photos/seed/bag3/800/800', hint: 'bag on model' }
+      { url: 'https://i.postimg.cc/sxTF6Hbm/Gemini-Generated-Image-7dj3zl7dj3zl7dj3.jpg', hint: 'crossbody bag front' },
+      { url: 'https://i.postimg.cc/BZKcLpRs/71d4mi-ZDr-L-AC-SY695.jpg', hint: 'bag interior pockets' },
+      { url: 'https://i.postimg.cc/9X7tRbsC/71W342iw-Eq-L-AC-SY695.jpg', hint: 'bag on model' }
     ],
     specs: {
       "Brand": "LOVEVOOK",
@@ -206,9 +206,9 @@ export const PRODUCTS: Product[] = [
     imageUrl: 'https://i.postimg.cc/prFT8N6t/Gemini-Generated-Image-iomuu2iomuu2iomu.png',
     imageHint: 'glasses',
     images: [
-      { url: 'https://i.postimg.cc/HsKd3rVs/Gemini-Generated-Image-qse9zoqse9zoqse9.png', hint: 'crossbody bag front' },
-      { url: 'https://picsum.photos/seed/bag2/800/800', hint: 'bag interior pockets' },
-      { url: 'https://picsum.photos/seed/bag3/800/800', hint: 'bag on model' }
+      { url: 'https://i.postimg.cc/prFT8N6t/Gemini-Generated-Image-iomuu2iomuu2iomu.png', hint: 'crossbody bag front' },
+      { url: 'https://i.postimg.cc/zXkhKc7m/61Ku3U-s-JTL-AC-SY695.jpg', hint: 'bag interior pockets' },
+      { url: 'https://i.postimg.cc/RVTtKDRk/61Ot-S3a-TVYL-AC-SY695.jpg', hint: 'bag on model' }
     ],
     specs: {
       "Lens Type": "Gradient",
@@ -226,9 +226,9 @@ export const PRODUCTS: Product[] = [
     imageUrl: 'https://i.postimg.cc/8P3CnKMb/Gemini-Generated-Image-6n1uog6n1uog6n1u.png',
     imageHint: 'watch',
     images: [
-      { url: 'https://i.postimg.cc/HsKd3rVs/Gemini-Generated-Image-qse9zoqse9zoqse9.png', hint: 'crossbody bag front' },
-      { url: 'https://picsum.photos/seed/bag2/800/800', hint: 'bag interior pockets' },
-      { url: 'https://picsum.photos/seed/bag3/800/800', hint: 'bag on model' }
+      { url: 'https://i.postimg.cc/8P3CnKMb/Gemini-Generated-Image-6n1uog6n1uog6n1u.png', hint: 'crossbody bag front' },
+      { url: 'https://i.postimg.cc/QNQKZyvv/613p-Ex-A5p-QL-AC-SY695.jpg', hint: 'bag interior pockets' },
+      { url: 'https://i.postimg.cc/fWcSQr1G/71z-SJSko-SCL-AC-SY535.jpg', hint: 'bag on model' }
     ],
     specs: {
       "Display": "Analog",
