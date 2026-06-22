@@ -235,5 +235,25 @@ export const PRODUCTS: Product[] = [
       "Closure Type": "Push Button Foldover Clasp ",
       "Strap Type": "Bracelet"
     }
+  },
+  {
+    id: 'f12',
+    name: 'Small Crossbody Bag for Women',
+    category: 'Women',
+    description: ' YAZEKOUS small purse is made of soft Leather, Its not only soft and comfortable to the touch but also highly resistant to wear and tear',
+    price: 9.99,
+    affiliateUrl: 'https://amzn.to/4eW5JDF',
+    imageUrl: 'https://i.postimg.cc/NFBM2rz4/Gemini-Generated-Image-2o87f82o87f82o87.png',
+    imageHint: 'watch',
+    images: [
+      { url: 'https://i.postimg.cc/NFBM2rz4/Gemini-Generated-Image-2o87f82o87f82o87.png', hint: 'crossbody bag front' },
+      { url: 'https://i.postimg.cc/QMhnP8vN/71Ezr-T5i-Wn-L-AC-SX569.jpg', hint: 'bag interior pockets' },
+      { url: 'https://i.postimg.cc/LsD0MdMM/717eg28Rh-ZL-AC-SX569.jpg', hint: 'bag on model' }
+    ],
+    specs: {
+      "Fabric type": "Leather",
+      "Colors": "Beige White, Beige, Black, Grey, Pink ",
+      "Pattern": "Solid"
+    }
   }
 ];
