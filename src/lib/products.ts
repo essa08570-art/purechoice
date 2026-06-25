@@ -255,5 +255,25 @@ export const PRODUCTS: Product[] = [
       "Colors": "Beige White, Beige, Black, Grey, Pink ",
       "Pattern": "Solid"
     }
+  },
+    {
+    id: 'f13',
+    name: 'Atoden Hair Bows',
+    category: 'Women',
+    description: ' Perfect for giving as a gift. It’s a sweet present for your daughter, granddaughter, wife, mother and girlfriend on birthday, party, wedding, anniversary, Mothers day, Thanksgiving Day, Christmas Day, Valentines Day.',
+    price: 5.59,
+    affiliateUrl: 'https://amzn.to/4eJwOso',
+    imageUrl: 'https://i.postimg.cc/yxBh0kcn/Gemini-Generated-Image-z8ekqyz8ekqyz8ek.png',
+    imageHint: 'watch',
+    images: [
+      { url: 'https://i.postimg.cc/yxBh0kcn/Gemini-Generated-Image-z8ekqyz8ekqyz8ek.png', hint: 'crossbody bag front' },
+      { url: 'https://i.postimg.cc/wxGTtSzN/51Ma-T9p-AJL-SL1000.jpg', hint: 'bag interior pockets' },
+      { url: 'https://i.postimg.cc/L4b6qrS1/41n-NO09Sz-LL-SL1000.jpg', hint: 'bag on model' }
+    ],
+    specs: {
+      "Brand": "Atoden",
+      "Colors": "Beige & Black ",
+      "Pattern": "Solid"
+    }
   }
 ];
