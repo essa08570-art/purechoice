@@ -295,5 +295,25 @@ export const PRODUCTS: Product[] = [
       "Closure type": "Pull-On ",
       "material": "Knit Fabric"
     }
+  },
+  {
+    id: 'f15',
+    name: 'Polarized Aviator Sunglasses',
+    category: 'Men',
+    description: ' Engineered for Bigger Heads -- Tired of settling for sunglasses that squeeze your head? Our oversized extra wide frame sunglasses are thoughtfully designed to comfortably fit larger head sizes.',
+    price: 19.99,
+    affiliateUrl: 'https://amzn.to/4eJJhfG',
+    imageUrl: 'https://i.postimg.cc/qBWPDBDB/product.png',
+    imageHint: 'shoes',
+    images: [
+      { url: 'https://i.postimg.cc/qBWPDBDB/product.png', hint: 'crossbody bag front' },
+      { url: 'https://i.postimg.cc/7PjFtPsF/51ZCJ2CRJLL-AC-SX679.jpg', hint: 'bag interior pockets' },
+      { url: 'https://i.postimg.cc/3rzsfrfM/61D8FXC6oj-L-AC-SX679.jpg', hint: 'bag on model' }
+    ],
+    specs: {
+      "Item Shape": "Aviator",
+      "Frame Coverage": "Full Frame",
+      "Lens Color": "Black"
+    }
   }
 ];
