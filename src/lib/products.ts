@@ -256,7 +256,7 @@ export const PRODUCTS: Product[] = [
       "Pattern": "Solid"
     }
   },
-    {
+  {
     id: 'f13',
     name: 'Atoden Hair Bows',
     category: 'Women',
@@ -264,7 +264,7 @@ export const PRODUCTS: Product[] = [
     price: 5.59,
     affiliateUrl: 'https://amzn.to/4eJwOso',
     imageUrl: 'https://i.postimg.cc/yxBh0kcn/Gemini-Generated-Image-z8ekqyz8ekqyz8ek.png',
-    imageHint: 'watch',
+    imageHint: 'bow',
     images: [
       { url: 'https://i.postimg.cc/yxBh0kcn/Gemini-Generated-Image-z8ekqyz8ekqyz8ek.png', hint: 'crossbody bag front' },
       { url: 'https://i.postimg.cc/wxGTtSzN/51Ma-T9p-AJL-SL1000.jpg', hint: 'bag interior pockets' },
@@ -274,6 +274,26 @@ export const PRODUCTS: Product[] = [
       "Brand": "Atoden",
       "Colors": "Beige & Black ",
       "Pattern": "Solid"
+    }
+  },
+  {
+    id: 'f14',
+    name: 'Soesyi Pointed Toe Flats',
+    category: 'Women',
+    description: ' Comfortable Flat Shoes:Soft padding without rubbing against your heel and toe,keeps feet comfortable',
+    price: 32.66 ,
+    affiliateUrl: 'https://amzn.to/4f3d58o',
+    imageUrl: 'https://i.postimg.cc/Dzp1YnHB/product.png',
+    imageHint: 'shoes',
+    images: [
+      { url: 'https://i.postimg.cc/Dzp1YnHB/product.png', hint: 'crossbody bag front' },
+      { url: 'https://i.postimg.cc/rp4q79YN/81HT-KF4r-L-AC-SY695.jpg', hint: 'bag interior pockets' },
+      { url: 'https://i.postimg.cc/CK8w946H/81zx-YAWOOVL-AC-SY695.jpg', hint: 'bag on model' }
+    ],
+    specs: {
+      "Sole material": "Rubber",
+      "Closure type": "Pull-On ",
+      "material": "Knit Fabric"
     }
   }
 ];
