@@ -315,5 +315,25 @@ export const PRODUCTS: Product[] = [
       "Frame Coverage": "Full Frame",
       "Lens Color": "Black"
     }
+  },
+  {
+    id: 'f16',
+    name: 'Dangle Earrings',
+    category: 'Women',
+    description: ' Simple and classic dangling hoop design, classical and timeless. Dangle Earrings with precision-cut cubic zirconia, like bling diamond,elegant and sparkle wear in wedding cocktail,dainty dressy earrings for woman',
+    price: 9.99,
+    affiliateUrl: 'https://amzn.to/3QRZIyL',
+    imageUrl: 'https://i.postimg.cc/gjDBLcjD/product-1.png',
+    imageHint: 'earrings',
+    images: [
+      { url: 'https://i.postimg.cc/gjDBLcjD/product-1.png', hint: 'crossbody bag front' },
+      { url: 'https://i.postimg.cc/x8RFNj8m/71i-Onjtsu-ML-AC-SY625.jpg', hint: 'bag interior pockets' },
+      { url: 'https://i.postimg.cc/rsJYRysW/81OXSea-Dhu-L-AC-SY625.jpg', hint: 'bag on model' }
+    ],
+    specs: {
+      "Material": "Brass",
+      "Gem type": "Cubic Zirconia",
+      "Back Finding": "Clasp"
+    }
   }
 ];
