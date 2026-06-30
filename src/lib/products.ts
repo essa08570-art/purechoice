@@ -335,5 +335,25 @@ export const PRODUCTS: Product[] = [
       "Gem type": "Cubic Zirconia",
       "Back Finding": "Clasp"
     }
+  },
+  {
+    id: 'f17',
+    name: 'Platform Heel Sandals',
+    category: 'Women',
+    description: ' Flaunt Your Style: Make an entrance where it’s needed. These women’s heeled sandals are a wardrobe essential, perfect for events or days when you need more confidence.',
+    price: 35.99,
+    affiliateUrl: 'https://amzn.to/4aueBOt',
+    imageUrl: 'https://i.postimg.cc/JhqGqLLy/Gemini-Generated-Image-h6el4rh6el4rh6el.png',
+    imageHint: 'shoes',
+    images: [
+      { url: 'https://i.postimg.cc/JhqGqLLy/Gemini-Generated-Image-h6el4rh6el4rh6el.png', hint: 'crossbody bag front' },
+      { url: 'https://i.postimg.cc/hGgXTGNZ/51J2ASXXo-KL-AC-SY695.jpg', hint: 'bag interior pockets' },
+      { url: 'https://i.postimg.cc/xdYXMdBF/61e-Qrsk-ULe-L-AC-SY695.jpg', hint: 'bag on model' }
+    ],
+    specs: {
+      "Fabric type": "NUBUCK",
+      "Sole material": "Thermoplastic Rubber",
+      "Outer material": "Faux Suede"
+    }
   }
 ];
