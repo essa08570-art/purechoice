@@ -355,5 +355,25 @@ export const PRODUCTS: Product[] = [
       "Sole material": "Thermoplastic Rubber",
       "Outer material": "Faux Suede"
     }
+  },
+  {
+    id: 'f18',
+    name: 'Guts Sword Necklace',
+    category: 'Men',
+    description: ' The Berserker necklace image design is the Guts Brand Mark on his neck. We designed this Berzerk necklace with the hope that it will be with you as a protector',
+    price: 8.99,
+    affiliateUrl: 'https://amzn.to/3SA5jKE',
+    imageUrl: 'https://i.postimg.cc/qvMGHrp8/Gemini-Generated-Image-rchx4zrchx4zrchx.png',
+    imageHint: 'shoes',
+    images: [
+      { url: 'https://i.postimg.cc/qvMGHrp8/Gemini-Generated-Image-rchx4zrchx4zrchx.png', hint: 'crossbody bag front' },
+      { url: 'https://i.postimg.cc/xTPPZ8V5/417Nygy-CIGL-AC-SY625.jpg', hint: 'bag interior pockets' },
+      { url: 'https://i.postimg.cc/qMGGFqHQ/51h-YFCNpkr-L-AC-SY625.jpg', hint: 'bag on model' }
+    ],
+    specs: {
+      "Material": "Zinc",
+      "Clasp type": "Hook",
+      "Colors": "Black, Red"
+    }
   }
 ];
