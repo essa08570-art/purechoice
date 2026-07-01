@@ -375,5 +375,25 @@ export const PRODUCTS: Product[] = [
       "Clasp type": "Hook",
       "Colors": "Black, Red"
     }
+  },
+  {
+    id: 'f19',
+    name: 'Mens Meteorite Ring',
+    category: 'Men',
+    description: 'Strong. Sturdy. Scratch-resistant: Tungsten ring is a symbol of strength, durability and elegance. Its scratch-resistant, sensitive-skin-friendly and comfortable for your everyday wear. Its easy to maintain and clean, making it a perfect replacement for your precious wedding ring.',
+    price: 37.99,
+    affiliateUrl: 'https://amzn.to/4aqFItK',
+    imageUrl: 'https://i.postimg.cc/dQgxmLm4/Gemini-Generated-Image-k51rj6k51rj6k51r.png',
+    imageHint: 'img',
+    images: [
+      { url: 'https://i.postimg.cc/dQgxmLm4/Gemini-Generated-Image-k51rj6k51rj6k51r.png', hint: 'img' },
+      { url: 'https://i.postimg.cc/gcx7ZvRP/61Hw-FLo474L-AC-SY535.jpg', hint: 'img' },
+      { url: 'https://i.postimg.cc/WpdykMrv/81kjy-VC8Fw-L-AC-SY535.jpg', hint: 'img' }
+    ],
+    specs: {
+      "Metal type": "Tungsten Carbide",
+      "Setting Type": "Inlay",
+      "Stone Clarity": "Eye Clean"
+    }
   }
 ];
