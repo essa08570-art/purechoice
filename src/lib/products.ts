@@ -395,5 +395,25 @@ export const PRODUCTS: Product[] = [
       "Setting Type": "Inlay",
       "Stone Clarity": "Eye Clean"
     }
+  },
+  {
+    id: 'f20',
+    name: 'Silicone Ring',
+    category: 'Men',
+    description: ' Must For An Active Lifestyle – Our silicone flexible wedding ring have an awesome smooth ergonomic design on the top combined with a perfect comfort fit design on the inside. ',
+    price: 9.99,
+    affiliateUrl: 'https://amzn.to/3SXLE7n',
+    imageUrl: 'https://i.postimg.cc/V6wfpchh/product.png',
+    imageHint: 'img',
+    images: [
+      { url: 'https://i.postimg.cc/V6wfpchh/product.png', hint: 'img' },
+      { url: 'https://i.postimg.cc/CLRgv1KX/71v-Phxsp-YCL-AC-SY625.jpg', hint: 'img' },
+      { url: 'https://i.postimg.cc/jqgTQNss/81i-ENIr-Qm-HL-AC-SY625.jpg', hint: 'img' }
+    ],
+    specs: {
+      "Material": "Silicone",
+      "Brand": "ThunderFit ",
+      "Colors": "Black, Grey, Red, Blue, White"
+    }
   }
 ];
