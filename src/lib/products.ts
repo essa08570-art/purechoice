@@ -415,5 +415,25 @@ export const PRODUCTS: Product[] = [
       "Brand": "ThunderFit ",
       "Colors": "Black, Grey, Red, Blue, White"
     }
+  },
+  {
+    id: 'f21',
+    name: 'Polarized Aviator Sunglasses',
+    category: 'Women',
+    description: ' HD UV400 POLARIZED TAC LENSES: Effectively protecting eyes by blocking 99.99% harmful UVA & UVB rays, providing you with a high definition visual experience',
+    price: 16.49,
+    affiliateUrl: 'https://amzn.to/4eDZuo0',
+    imageUrl: 'https://i.postimg.cc/nzfFMmn8/product-5.png',
+    imageHint: 'img',
+    images: [
+      { url: 'https://i.postimg.cc/nzfFMmn8/product-5.png', hint: 'img' },
+      { url: 'https://i.postimg.cc/qRHJgK4m/61b-Tp5hns-NL-AC-SX569.jpg', hint: 'img' },
+      { url: 'https://i.postimg.cc/SsbSj9kg/61o-Uk1p-Q4JL-AC-SX569.jpg', hint: 'img' }
+    ],
+    specs: {
+      "Shape": "Aviator",
+      "Lens Type": "Polarized ",
+      "Ultraviolet Light Protection": "True"
+    }
   }
 ];
