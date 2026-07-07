@@ -455,5 +455,25 @@ export const PRODUCTS: Product[] = [
       "Clasp type": "Lobster ",
       "Gem type": "Cubic Zirconia"
     }
+  },
+  {
+    id: 'f23',
+    name: 'Heart of the ocean',
+    category: 'Women',
+    description: ' Inspired by the iconic Heart of the Ocean necklace, this stunning blue crystal heart pendant captures the romance and mystery of the sea with a timeless vintage style.',
+    price:9.99,
+    affiliateUrl: 'https://amzn.to/4bfrAUn',
+    imageUrl: 'https://i.postimg.cc/fygZLXLG/Gemini-Generated-Image-y907i2y907i2y907.png',
+    imageHint: 'img',
+    images: [
+      { url: 'https://i.postimg.cc/fygZLXLG/Gemini-Generated-Image-y907i2y907i2y907.png', hint: 'img' },
+      { url: 'https://i.postimg.cc/rspMMg81/51VJKa81lq-L-AC-SY535.jpg', hint: 'img' },
+      { url: 'https://i.postimg.cc/GtpddzcQ/51e-FPDj7X2S-AC.jpg', hint: 'img' }
+    ],
+    specs: {
+      "Material": "Silver",
+      "Clasp type": "Buckle ",
+      "Gem type": "Cubic Zirconia"
+    }
   }
 ];
