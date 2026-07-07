@@ -435,5 +435,25 @@ export const PRODUCTS: Product[] = [
       "Lens Type": "Polarized ",
       "Ultraviolet Light Protection": "True"
     }
+  },
+  {
+    id: 'f22',
+    name: 'Dainty Silver Gold Necklace',
+    category: 'Women',
+    description: ' righten up any outfit with this sparkling Cubic Zirconia Station Necklace. Each shimmering stone adds a touch of elegance, making it perfect for both everyday wear and special occasions. Wear it alone for an elegant look, or layer it to create your own unique styl',
+    price: 9.49,
+    affiliateUrl: 'https://amzn.to/4bd3QQJ',
+    imageUrl: 'https://i.postimg.cc/nrXt9zNk/Gemini-Generated-Image-2ilcte2ilcte2ilc.png',
+    imageHint: 'img',
+    images: [
+      { url: 'https://i.postimg.cc/nrXt9zNk/Gemini-Generated-Image-2ilcte2ilcte2ilc.png', hint: 'img' },
+      { url: 'hhttps://i.postimg.cc/63jXQRbH/619ai11HISL-AC-SY535.jpg', hint: 'img' },
+      { url: 'https://i.postimg.cc/LXCpsfQC/81jq-Y8C5a-WL-AC-SY535.jpg', hint: 'img' }
+    ],
+    specs: {
+      "Material": "Brass",
+      "Clasp type": "Lobster ",
+      "Gem type": "Cubic Zirconia"
+    }
   }
 ];
