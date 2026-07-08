@@ -475,5 +475,25 @@ export const PRODUCTS: Product[] = [
       "Clasp type": "Buckle ",
       "Gem type": "Cubic Zirconia"
     }
+  },
+  {
+    id: 'f24',
+    name: 'Glitter Clutch Purse',
+    category: 'Women',
+    description: ' Design: Fold over front snap magnetic closure with gold metallic bar accent on flap Versatile: Free your hands with detachable hidden-clasp gold chain strap to wear as a shoulder/cross body bag - Put the chain inside and use it as a clutch',
+    price: 13.80,
+    affiliateUrl: 'https://amzn.to/3RoWpiL',
+    imageUrl: 'https://i.postimg.cc/Y9v1FCPF/Gemini-Generated-Image-9rza8d9rza8d9rza.png',
+    imageHint: 'img',
+    images: [
+      { url: 'https://i.postimg.cc/Y9v1FCPF/Gemini-Generated-Image-9rza8d9rza8d9rza.png', hint: 'img' },
+      { url: 'https://i.postimg.cc/k42xSgHV/812m-Ezupp-WL-AC-SY695.jpg', hint: 'img' },
+      { url: 'https://i.postimg.cc/JnsbXzFt/71pubc-HHx-RL-AC-SY695.jpg', hint: 'img' }
+    ],
+    specs: {
+      "Brand": "Dasein",
+      "Closure type": "Snap ",
+      "Colors": "Blue, Black, Navy blue, silver, gold, red, apricot"
+    }
   }
 ];
