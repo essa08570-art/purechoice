@@ -495,5 +495,25 @@ export const PRODUCTS: Product[] = [
       "Closure type": "Snap ",
       "Colors": "Blue, Black, Navy blue, silver, gold, red, apricot"
     }
+  },
+  {
+    id: 'f25',
+    name: 'Tennis Shoes for Women',
+    category: 'Women',
+    description: ' COMFORTABLE HIGH-QUALITY CANVAS SHOES - Long-lasting, abrasion-resistant, breathable, and lightweight, these low top canvas shoes for women feature high-quality canvas material that combines flexibility with comfort. They are easily washable, making them a stylish and practical footwear choice.',
+    price: 18.69,
+    affiliateUrl: 'https://amzn.to/4yiYmhq',
+    imageUrl: 'https://i.postimg.cc/ryfy0NwZ/Gemini-Generated-Image-xn5ht4xn5ht4xn5h.png',
+    imageHint: 'img',
+    images: [
+      { url: 'https://i.postimg.cc/ryfy0NwZ/Gemini-Generated-Image-xn5ht4xn5ht4xn5h.png', hint: 'img' },
+      { url: 'https://i.postimg.cc/HW6Wc9k3/715ezz-Qg-EEL-AC-SY695.jpg', hint: 'img' },
+      { url: 'https://i.postimg.cc/sfTfQ4gc/71in-HCOq-RTL-AC-SY695.jpg', hint: 'img' }
+    ],
+    specs: {
+      "Sole material": "Rubber",
+      "Outer material": "Canvas",
+      "Brand": "Adokoo"
+    }
   }
 ];
