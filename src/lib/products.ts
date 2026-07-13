@@ -515,5 +515,25 @@ export const PRODUCTS: Product[] = [
       "Outer material": "Canvas",
       "Brand": "Adokoo"
     }
+  },
+    {
+    id: 'f26',
+    name: 'Women Flat Sandals',
+    category: 'Women',
+    description: ' Fashionable design is very suitable for beach, holiday, dance and other occasions.',
+    price: 18.69,
+    affiliateUrl: 'https://amzn.to/4gAbU1E',
+    imageUrl: 'https://i.postimg.cc/yxYLYnRJ/product.jpg',
+    imageHint: 'img',
+    images: [
+      { url: 'https://i.postimg.cc/yxYLYnRJ/product.jpg', hint: 'img' },
+      { url: 'https://i.postimg.cc/mDcDfWXt/71lq4Mipii-L-AC-SY695.jpg', hint: 'img' },
+      { url: 'https://i.postimg.cc/RF3F5xsh/61c-A2Wp-KDq-L-AC-SY695.jpg', hint: 'img' }
+    ],
+    specs: {
+      "Fabric type": "PU",
+      "Outer material": "Synthesis",
+      "Brand": "FITORY "
+    }
   }
 ];
