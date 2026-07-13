@@ -521,7 +521,7 @@ export const PRODUCTS: Product[] = [
     name: 'Women Flat Sandals',
     category: 'Women',
     description: ' Fashionable design is very suitable for beach, holiday, dance and other occasions.',
-    price: 18.69,
+    price: 23.97,
     affiliateUrl: 'https://amzn.to/4gAbU1E',
     imageUrl: 'https://i.postimg.cc/yxYLYnRJ/product.jpg',
     imageHint: 'img',
