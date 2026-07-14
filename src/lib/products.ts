@@ -535,5 +535,25 @@ export const PRODUCTS: Product[] = [
       "Outer material": "Synthesis",
       "Brand": "FITORY "
     }
+  },
+    {
+    id: 'f27',
+    name: 'Horn Rimmed Polarized Sunglasses',
+    category: 'Men',
+    description: ' ENJOY THE SUNSHINE & FEEL THE NATURE - GQUEEN HD UV400 protection lens help block harmful UVA, UVB &UVC rays and protect your eyes against long-term UV damage. Top-rated polarized sunglasses can restore true color and reduce glare without any haze or optical distortion. You can consider wearing accessorizing your look with them when you are on a date, going for an outdoor lunch with friends or office mates, or enjoying your time at an afternoon cocktail party.',
+    price: 12.97,
+    affiliateUrl: 'https://amzn.to/4f2acF8',
+    imageUrl: 'https://i.postimg.cc/Mp54V8vB/Gemini-Generated-Image-uk0dxnuk0dxnuk0d.png',
+    imageHint: 'img',
+    images: [
+      { url: 'https://i.postimg.cc/Mp54V8vB/Gemini-Generated-Image-uk0dxnuk0dxnuk0d.png', hint: 'img' },
+      { url: 'https://i.postimg.cc/cL02vJ4J/61maufhci-PL-AC-SX679.jpg', hint: 'img' },
+      { url: 'https://i.postimg.cc/L82wJs6X/71SOy-OVt-Sx-L-AC-SX679.jpg', hint: 'img' }
+    ],
+    specs: {
+      "Lens Type": "Polarized",
+      "Lens Coating Description": "UV Protection Coating",
+      "Brand": "GQUEEN  "
+    }
   }
 ];
