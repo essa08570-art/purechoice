@@ -556,4 +556,24 @@ export const PRODUCTS: Product[] = [
       "Brand": "GQUEEN  "
     }
   }
+    {
+    id: 'f28',
+    name: 'Gold Earrings for Women',
+    category: 'Women',
+    description: 'TRENDY GOLD EARRINGS FOR WOMEN STACKABLE LOOK: Elevate your everyday look with these trendy earrings for women. Featuring a modern criss-cross design, these gold earrings studs are destined to stand out.',
+    price: 9.99,
+    affiliateUrl: 'https://amzn.to/45bIT5b',
+    imageUrl: 'https://i.postimg.cc/fymdB7Hs/prodcut-3.png',
+    imageHint: 'img',
+    images: [
+      { url: 'https://i.postimg.cc/fymdB7Hs/prodcut-3.png', hint: 'img' },
+      { url: 'https://i.postimg.cc/d3rC4R55/71g-D8Rg9q9L-AC-SY535.jpg', hint: 'img' },
+      { url: 'https://i.postimg.cc/kGKSfNTj/81Fzd84Pza-L-AC-SY675.jpg', hint: 'img' }
+    ],
+    specs: {
+      "Material": "Brass",
+      "Back Finding": "Screw Back",
+      "Gem type": "Cubic Zirconia  "
+    }
+  }
 ];
