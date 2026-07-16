@@ -555,7 +555,7 @@ export const PRODUCTS: Product[] = [
       "Lens Coating Description": "UV Protection Coating",
       "Brand": "GQUEEN  "
     }
-  }
+  },
     {
     id: 'f28',
     name: 'Gold Earrings for Women',
