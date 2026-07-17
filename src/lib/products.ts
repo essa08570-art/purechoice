@@ -595,5 +595,25 @@ export const PRODUCTS: Product[] = [
       "Closure type": "Magnetic",
       "Lining": "Acrylic  "
     }
+  },
+      {
+    id: 'f30',
+    name: 'Nude clutch purse',
+    category: 'Women',
+    description: 'This womens purse features two V-shaped embossed lines with chic metal trim edging, offering structure with simplicity. The elegant nude tone and structured envelope silhouette showcase refined style',
+    price: 15.99,
+    affiliateUrl: 'https://amzn.to/4wLUML1',
+    imageUrl: 'https://i.postimg.cc/Kjg0cKxw/product-5.png',
+    imageHint: 'img',
+    images: [
+      { url: 'https://i.postimg.cc/Kjg0cKxw/product-5.png', hint: 'img' },
+      { url: 'https://i.postimg.cc/VvbKsSmZ/61ee-Xvi-MSL-AC-SY575.jpg', hint: 'img' },
+      { url: 'https://i.postimg.cc/6qGM67t1/610-VCJhr-CL-AC-SY575.jpg', hint: 'img' }
+    ],
+    specs: {
+      "Closure type": "Magnetic",
+      "Handbag ": "Clutch",
+      "Pattern": "Solid  "
+    }
   }
 ];
