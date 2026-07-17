@@ -575,5 +575,25 @@ export const PRODUCTS: Product[] = [
       "Back Finding": "Screw Back",
       "Gem type": "Cubic Zirconia  "
     }
+  },
+    {
+    id: 'f29',
+    name: 'Clutch Purse for Women',
+    category: 'Women',
+    description: 'Classical envelope style, Front flap with magnetic snap closure. Made of smooth soft faux suede material, with various available color options.',
+    price: 16.99,
+    affiliateUrl: 'https://amzn.to/3Tq5hFr',
+    imageUrl: 'https://i.postimg.cc/cJZr1PM7/product-3.png',
+    imageHint: 'img',
+    images: [
+      { url: 'https://i.postimg.cc/cJZr1PM7/product-3.png', hint: 'img' },
+      { url: 'https://i.postimg.cc/SKqJQH7c/71v-Jvgw239L-AC-SY695.jpg', hint: 'img' },
+      { url: 'https://i.postimg.cc/ZqZCYXF3/71qu-Sgr-Tm-QL-AC-SY695.jpg', hint: 'img' }
+    ],
+    specs: {
+      "Fabric type": "Velvet Faux Suede",
+      "Closure type": "Magnetic",
+      "Lining": "Acrylic  "
+    }
   }
 ];
