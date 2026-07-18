@@ -596,7 +596,7 @@ export const PRODUCTS: Product[] = [
       "Lining": "Acrylic  "
     }
   },
-      {
+  {
     id: 'f30',
     name: 'Nude clutch purse',
     category: 'Women',
@@ -615,5 +615,25 @@ export const PRODUCTS: Product[] = [
       "Handbag ": "Clutch",
       "Pattern": "Solid  "
     }
-  }
+  },
+  {
+    id: 'f31',
+    name: 'Gold Bracelets for Women',
+    category: 'Women',
+    description: '14K Gold Plated 5-Piece Bracelets Collection: Comprises Small Disc Chain, Satellite Chain, Wave Twisted Rope Chain, Flat Oval Chain, and Gold Bead Box Chain. Each dainty bracelet shines with a luxe, high-polish finish, creating a layered look that’s lightweight yet eye-catching',
+    price: 9.99,
+    affiliateUrl: 'https://amzn.to/4fisLFf',
+    imageUrl: 'https://i.postimg.cc/nVRV9bzQ/81f-A1-g-Kz8L-AC-SY535.jpg',
+    imageHint: 'img',
+    images: [
+      { url: 'https://i.postimg.cc/nVRV9bzQ/81f-A1-g-Kz8L-AC-SY535.jpg', hint: 'img' },
+      { url: 'https://i.postimg.cc/FFWFk5Rc/9187EXMA2UL-AC-SY535.jpg', hint: 'img' },
+      { url: 'https://i.postimg.cc/Dfjf4kZL/91jn-Tb4PVJL-AC-SY535.jpg', hint: 'img' }
+    ],
+    specs: {
+      "Material": "Brass",
+      "clasp": "Lobster Claw",
+      "Chain type": "Bead Chain  "
+    }
+  },
 ];
