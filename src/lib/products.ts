@@ -636,4 +636,24 @@ export const PRODUCTS: Product[] = [
       "Chain type": "Bead Chain  "
     }
   },
+  {
+    id: 'f32',
+    name: 'Womens Two Strap Buckle',
+    category: 'Women',
+    description: 'These sandals have an adjustable ankle strap with hidden elastic, a padded insole with latex foam for added comfort, and a flexible and durable outsole. Available in regular and wide-widths, if between sizes order wide.',
+    price: 20,
+    affiliateUrl: 'https://amzn.to/4hq6s1B',
+    imageUrl: 'https://i.postimg.cc/qBQdqphK/Gemini-Generated-Image-px5e7bpx5e7bpx5e.png',
+    imageHint: 'img',
+    images: [
+      { url: 'https://i.postimg.cc/qBQdqphK/Gemini-Generated-Image-px5e7bpx5e7bpx5e.png', hint: 'img' },
+      { url: 'https://i.postimg.cc/66zNqB28/61vn-R-Ov1QS-AC-SX695.jpg', hint: 'img' },
+      { url: 'https://i.postimg.cc/ZYjhnJB9/61L5mzof-ANS-AC-SY695.jpg', hint: 'img' }
+    ],
+    specs: {
+      "Sole material": "Synthetic",
+      "Inner material": "Faux Suede",
+      "Brand": "Amazon Essentials  "
+    }
+  }
 ];
