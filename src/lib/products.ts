@@ -675,5 +675,25 @@ export const PRODUCTS: Product[] = [
       "Closure type": "Magnetic",
       "Lining": "Polyester  "
     }
+  },
+  {
+    id: 'f34',
+    name: 'Retro Oval Sunglasses',
+    category: 'Women',
+    description: 'These trendy square sunglasses are intended for both men and women who value style and individuality; Beginning with the prominent face front and slightly encircling lenses. Go wild and let your unique sense of style shine. You can embrace your light collection.',
+    price: 9.99,
+    affiliateUrl: 'https://amzn.to/4wfgqY9',
+    imageUrl: 'https://i.postimg.cc/jdvjhqqK/Gemini-Generated-Image-2l9z302l9z302l9z.png',
+    imageHint: 'img',
+    images: [
+      { url: 'https://i.postimg.cc/jdvjhqqK/Gemini-Generated-Image-2l9z302l9z302l9z.png', hint: 'img' },
+      { url: 'https://m.media-amazon.com/images/I/517AwWGCT4L._AC_SX679_.jpg', hint: 'img' },
+      { url: 'https://m.media-amazon.com/images/I/61D76EJhgQL._AC_SX679_.jpg', hint: 'img' }
+    ],
+    specs: {
+      "Lens Width": "55 mm",
+      "Lens Type": "Polarized",
+      "Lens Coating Description": "UV Protection Coating "
+    }
   }
 ];
