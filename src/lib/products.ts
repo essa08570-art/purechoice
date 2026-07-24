@@ -687,8 +687,8 @@ export const PRODUCTS: Product[] = [
     imageHint: 'img',
     images: [
       { url: 'https://i.postimg.cc/jdvjhqqK/Gemini-Generated-Image-2l9z302l9z302l9z.png', hint: 'img' },
-      { url: 'https://m.media-amazon.com/images/I/517AwWGCT4L._AC_SX679_.jpg', hint: 'img' },
-      { url: 'https://m.media-amazon.com/images/I/61D76EJhgQL._AC_SX679_.jpg', hint: 'img' }
+      { url: 'https://i.postimg.cc/g0VQvjdx/517Aw-WGCT4L-AC-SX679.jpg', hint: 'img' },
+      { url: 'https://i.postimg.cc/SK63WRqX/61D76EJhg-QL-AC-SX679.jpg', hint: 'img' }
     ],
     specs: {
       "Lens Width": "55 mm",
