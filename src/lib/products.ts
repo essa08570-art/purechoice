@@ -655,5 +655,25 @@ export const PRODUCTS: Product[] = [
       "Inner material": "Faux Suede",
       "Brand": "Amazon Essentials  "
     }
+  },
+  {
+    id: 'f33',
+    name: 'Womens Handbag',
+    category: 'Women',
+    description: 'Gold hardware and subtly flap with magnetic snap closure make you look chic and impeccable style. The bottom width of this KKXIU elegant evening bag for women is 2 inches, which makes this clutch has more space for daily stuff like phones, wallets, cosmetics, cards, keys, sunglasses, etc.',
+    price: 22,
+    affiliateUrl: 'https://amzn.to/4frdiRS',
+    imageUrl: 'https://i.postimg.cc/W46PphJJ/product-33.png',
+    imageHint: 'img',
+    images: [
+      { url: 'https://i.postimg.cc/W46PphJJ/product-33.png', hint: 'img' },
+      { url: 'https://i.postimg.cc/zXSY5LZ5/71o3-FWx-S3L-AC-SY695.jpg', hint: 'img' },
+      { url: 'https://i.postimg.cc/28FNmqRY/61dz2Db-GX2L-AC-SY695.jpg', hint: 'img' }
+    ],
+    specs: {
+      "Fabric type": "Faux Leather",
+      "Closure type": "Magnetic",
+      "Lining": "Polyester  "
+    }
   }
 ];
